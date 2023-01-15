@@ -1,0 +1,21 @@
+{
+    "#female speakers": 209,
+    "#male speakers": 199,
+    "#speakers": 408,
+    "#total tokens": 6899,
+    "#total unique tokens": 2435,
+    "#total utts": 440,
+    "average_utt_len": 15.679545454545455,
+    "max_utt_len": 57.0,
+    "min_utt_len": 1.0,
+    "average_utt_duration_sec": 5.63770440340909,
+    "max_utt_duration_sec": 15.96,
+    "min_utt_duration_sec": 1.25,
+    "#books": 329,
+    "#chapters": 426,
+    "hours": 0.6890527604166673,
+    "subset": {
+        "other": 269,
+        "clean": 171
+    }
+}

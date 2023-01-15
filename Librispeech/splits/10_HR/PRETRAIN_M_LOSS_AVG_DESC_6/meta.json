@@ -1,0 +1,23 @@
+{
+    "#female speakers": 581,
+    "#male speakers": 681,
+    "#speakers": 1262,
+    "#total tokens": 84276,
+    "#total unique tokens": 9611,
+    "#total utts": 3480,
+    "average_utt_len": 24.217241379310344,
+    "max_utt_len": 54.0,
+    "min_utt_len": 1.0,
+    "average_utt_duration_sec": 10.352969809626439,
+    "max_utt_duration_sec": 17.025,
+    "min_utt_duration_sec": 1.065,
+    "#books": 842,
+    "#chapters": 1740,
+    "hours": 10.00787081597221,
+    "subset": {
+        "other": 1195,
+        "clean": 2285
+    },
+    "pretrain_loss_sum": 31058.831176757812,
+    "pretrain_loss_avg": 8.924951487574084
+}
